@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#count{
+    display: flex;
+    padding-left: 290px;
+    font-size: 100px;
+    color: brown;
+}
+
+.btn1{
+     font-size: 50px; 
+ margin-left: 20px;
+ background-color:blueviolet;
+ color: antiquewhite;
+}
+.btn1:hover{
+    background-color: rgb(240, 6, 6);
+    box-shadow:  0  15px 15px red;
+}
